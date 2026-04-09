@@ -1,0 +1,25 @@
+{
+    "expected_columns": [
+        "Ship Mode",
+        "Segment",
+        "Country",
+        "City",
+        "State",
+        "Postal Code",
+        "Region",
+        "Category",
+        "Sub-Category",
+        "Sales",
+        "Quantity",
+        "Discount",
+        "Profit"
+    ],
+    "missing_threshold": 20,
+    "drift_threshold": 0.30,
+    "enable_telegram": true,
+    "telegram_token": /*replace with telegram token*/
+    "telegram_chat_id": /*replace with telegram chat_id
+
+    
+    
+}
